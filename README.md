@@ -1,0 +1,1 @@
+Radtel users are getting on my nerves and seriously the worst of fanboys. Keep harassing me and the firmware ain't coming back. Not that there is much hope for an update when that piece of shit DMR FW keeps killing the radio with its many bugs.
