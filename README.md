@@ -30,6 +30,8 @@ You find more friendly documentation at [wiki](https://github.com/jcalado/rt-4d-
 
 - From beta 38 onwards, the minimum DMR firmware suported will be 1.2.0.16. Any bug reports with b38+ that use older versions will be ignored.
 
+- <img src="Zzz.png">Let's have a look I guess.</a>
+
 - Beta 40
   - Fixed a bug with receiving group SMS.
   - As a result, RX group list now only support 32 IDs.
@@ -67,7 +69,6 @@ You find more friendly documentation at [wiki](https://github.com/jcalado/rt-4d-
     - The LED will turn off when PTT is released or if connection to the repeater failed.
 
 - WIP
-  - Why wait for CPS to catch up. <a href="wip.png">Very very WIP.</a>
   - DCS codes are now correctly displayed in the capture list.
   - Spectrum no longer renders or processes frequencies beyond the "To:" limit in Scan Range.
     - Fixed display bug introduced by this feature when not in scan range mode.
