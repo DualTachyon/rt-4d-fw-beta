@@ -28,9 +28,11 @@ If you fit in any of the above points, stick to Official Radtel firmware as this
 
 You find more friendly documentation at [wiki](https://github.com/jcalado/rt-4d-fw-beta/wiki) by [Joel](https://github.com/jcalado). Be aware that the documentation can sometimes lag behind the releases.
 
-- From beta 38 onwards, the minimum DMR firmware suported will be 1.2.0.16. Any bug reports with b38+ that use older versions will be ignored.
+- From beta 38 onwards, the minimum DMR firmware supported is 1.2.0.16.
+- From beta 41 onwards, the minimum DMR firmware supported will be 1.2.0.24.
 
-- <img src="Zzz.png">Let's have a look I guess.</a>
+- Beta 41 and beyond
+  - Official 3.19 broke CPS compatibility entirely and in very anti counter productive ways. 3.19 CPS will not be supported and from Beta 41 onwards, only [Joel's RT-4D CPS](https://github.com/jcalado/rt4d-cps) will be supported. I have better things to do than change the entire firmware to accomodate random big CPS changes, most of which didn't need to happen.
 
 - Beta 40
   - Fixed a bug with receiving group SMS.
