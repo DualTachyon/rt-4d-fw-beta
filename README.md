@@ -28,6 +28,10 @@ If you fit in any of the above, stick to Official Radtel firmware as this firmwa
 
 Official 3.18 broke CPS compatibility entirely and in very counter productive ways. 3.18 CPS and beyond will not be supported and from Beta 41 onwards, only [Joel's RT-4D CPS](https://github.com/jcalado/rt4d-cps) will be supported. I have better things to do than change the entire firmware to accomodate random and big CPS changes, most of which didn't need to happen.
 
+# SPI Flash
+
+**Always back up your SPI flash before installing any beta! No support will be given to those losing the calibration settings who didn't make a backup**
+
 # Changelog
 
 You can find more friendly documentation at [wiki](https://github.com/jcalado/rt-4d-fw-beta/wiki) by [Joel](https://github.com/jcalado). Be aware that the documentation can sometimes lag behind the releases but will eventually get updated.
@@ -91,6 +95,7 @@ If you use the -screenshot.bin firmware, you can use the screenshot binary with 
 * [Flasher CLI](https://github.com/DualTachyon/radtel-rt-4d-flasher-cli) - Windows CLI (and Linux if you have Mono and build yourself)
 * [rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs/releases/) - Windows and Linux CLI
 * [RT-4D_Flasher](https://github.com/omegatee/RT-4D_Flasher) - Linux GUI
+* [RT-4D Web Flasher](https://thankful-water-0753da603.6.azurestaticapps.net/) - Web based
 
 # Beta 40 and earlier
 
